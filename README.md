@@ -37,6 +37,4 @@ Low: 274.87
 Adj Close: 276.45
 Volume: 46000000
 
-## 📌 Author
 
-Thilak
